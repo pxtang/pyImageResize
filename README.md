@@ -1,0 +1,1 @@
+Python project to learn how to resize images
